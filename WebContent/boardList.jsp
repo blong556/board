@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<meta charset="UTF-master">
 <title>board</title>
 <style>
 #listTable {table-layout:fixed}
